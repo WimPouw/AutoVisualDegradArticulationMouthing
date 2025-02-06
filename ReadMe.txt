@@ -1,0 +1,1 @@
+open ipynb in jupyer notebook, after install pip -r requirements.txt
