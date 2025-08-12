@@ -23,7 +23,7 @@ Current Github: https://github.com/WimPouw/AutoVisualDegradArticulationMouthing
 
 
 
-## Application for Sign langauages
+## Application for Sign languages
 In sign language research, psycholinguists often work with videos of individual signs, akin to working with single spoken words and gestures. These individual signs have different components, each contributing to the information conveyed by the lexical signs. This includes the hands, movements of the body and facial expressions and movements of the mouth.
 
 Sign languages, existing in close proximity to hearing communities, often incorporate the movements associated with spoken words in the signs. When producing individual signs, signers may thus produce a mouth movement that looks as though they were saying the word alongside the hand movement. In fact, signers often find it difficult to produce signs with a neutral face and the resulting videos are perceived as less natural. This mean, in turn, that observers may be able to extract information about the lexical item from looking at the mouth, even without looking at the hands. If you want to investigate what information is conveyed by the manual movements without influence from what the mouth is contributing, you therefore need to mask the mouth area. This module provides an approach to doing that, blurring the area around the mouth such that lip reading becomes impossible.
